@@ -6,7 +6,7 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
 
 ---
 # 👀 Profile Views:
-![](https://vbr.nathanchung.dev/badge?page_id=tolqinovhq&color=55acb7&style=for-the-badge&logo=Github)
+![](https://vbr.nathanchung.dev/badge?page_id=tulkinovdev&color=55acb7&style=for-the-badge&logo=Github)
 
 
 ## 🌐 Socials:
