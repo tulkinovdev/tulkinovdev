@@ -21,13 +21,13 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
   <!-- Stats section -->
   <p align="center">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=tolqinovhq&theme=gotham&show_icons=true&hide_border=true&count_private=true" 
-      alt="tolqinovhq's GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=tulkinovdev&theme=gotham&show_icons=true&hide_border=true&count_private=true" 
+      alt="tulkinovdev's GitHub Stats" 
       height="180em"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolqinovhq&theme=gotham&show_icons=true&hide_border=true&layout=compact" 
-      alt="tolqinovhq's Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulkinovdev&theme=gotham&show_icons=true&hide_border=true&layout=compact" 
+      alt="tulkinovdev's Top Languages" 
       height="180em"
     />
   </p>
@@ -35,18 +35,18 @@ Driven by curiosity, simplicity, and a love for well-crafted digital experiences
   <!-- Streak section -->
   <p align="center">
     <img 
-      src="https://streak-stats.demolab.com?user=tolqinovhq&theme=gotham&hide_border=true" 
-      alt="tolqinovhq's GitHub Streak" 
+      src="https://streak-stats.demolab.com?user=tulkinovdev&theme=gotham&hide_border=true" 
+      alt="tulkinovdev's GitHub Streak" 
       width="90%"
     />
   </p>
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tolqinovhq&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tulkinovdev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tolqinovhq&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=tulkinovdev&limit=5&theme=gotham&combine_all_yearly_contributions=true)
